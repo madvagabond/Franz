@@ -2,7 +2,9 @@
 A simple topic based pub sub broker. 
 
 Usage: 
+
   val addr = "127.0.0.1"
+
   FranzClient.newTopic(addr, "bullet")
   
   def f(num: Int)(x: String) = println(s" client ${num} ${x}")
