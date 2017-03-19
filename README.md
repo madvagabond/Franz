@@ -1,4 +1,4 @@
-# Franz
+# Franz Deprecated use Franz2
 A simple topic based pub sub broker. 
 
 Usage: 
